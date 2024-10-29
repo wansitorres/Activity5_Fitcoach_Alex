@@ -1,7 +1,11 @@
-openai
-numpy
-pandas
+openai==0.28
 streamlit
+streamlit_option_menu
+streamlit_extras
+faiss-cpu
+plotly
+openpyxl
 langchain
-streamlit-option-menu
-streamlit-extras
+langchain_community
+scipy
+scikit-learn
