@@ -1,6 +1,8 @@
-# Fitcoach_Alex
+# Fitcoach Alex - AI Personal Fitness Chatbot
+Fitcoach Alex is an AI-powered personal fitness chatbot developed using the GPT-4o-mini model from OpenAI's API. Designed to provide personalized workout advice, nutrition tips, and motivation, Fitcoach Alex offers an interactive experience to help users on their fitness journey.
 
-Fitcoach Alex is an AI Chatbot made by utilizing the gpt-4o-mini model from the OpenAI API. This project was made by Juan Cesar Torres as a project for AI First Bootcamp by AI Republic.
+This project was created by Juan Cesar Torres as part of the AI First Bootcamp by AI Republic, showcasing the application of large language models in real-world fitness and health scenarios.
+
 
 Access the app here (OpenAI API Key is required): https://fitcoachalex.streamlit.app/ 
 
